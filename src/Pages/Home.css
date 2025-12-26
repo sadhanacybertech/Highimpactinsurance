@@ -1028,6 +1028,21 @@
     max-width: 120px;
   }
 }
+.logo-track {
+  display: flex;
+  width: max-content;
+  animation: logoScroll 15s linear infinite;
+}
+
+@keyframes logoScroll {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
 
 /* =====================================================
    LIFE INSURANCE SECTION – LIGHT PREMIUM THEME
