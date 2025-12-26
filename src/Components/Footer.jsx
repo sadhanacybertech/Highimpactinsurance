@@ -28,20 +28,47 @@ const Footer = () => {
                         </div>
 
                         <div className="footer-social">
-                            <a href="#"><FaFacebookF /></a>
-                            <a href="#"><FaTwitter /></a>
-                            <a href="#"><FaLinkedinIn /></a>
+                            <a
+                                href="https://facebook.com"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                aria-label="Facebook"
+                                title="Facebook"
+                            >
+                                <FaFacebookF />
+                            </a>
+
+                            <a
+                                href="https://twitter.com"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                aria-label="Twitter"
+                                title="Twitter"
+                            >
+                                <FaTwitter />
+                            </a>
+
+                            <a
+                                href="https://linkedin.com"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                aria-label="LinkedIn"
+                                title="LinkedIn"
+                            >
+                                <FaLinkedinIn />
+                            </a>
                         </div>
+
                     </div>
 
                     {/* Products */}
                     <div className="col-lg-2 col-md-6">
                         <h6 className="footer-title">Products</h6>
                         <ul className="footer-links">
-                            <li><a href="#">Corporate Insurance</a></li>
-                            <li><a href="#">Health Insurance</a></li>
-                            <li><a href="#">Risk Advisory</a></li>
-                            <li><a href="#">Claims Support</a></li>
+                            <li><a href="/">Corporate Insurance</a></li>
+                            <li><a href="/">Health Insurance</a></li>
+                            <li><a href="/">Risk Advisory</a></li>
+                            <li><a href="/contact">Claims Support</a></li>
                         </ul>
                     </div>
 
@@ -49,11 +76,11 @@ const Footer = () => {
                     <div className="col-lg-3 col-md-6">
                         <h6 className="footer-title">Useful Links</h6>
                         <ul className="footer-links">
-                            <li><a href="#">About Insurance</a></li>
-                            <li><a href="#">Auto Insurance</a></li>
-                            <li><a href="#">Careers</a></li>
-                            <li><a href="#">Life Insurance</a></li>
-                            <li><a href="#">Customer Support</a></li>
+                            <li><a href="/">About Insurance</a></li>
+                            <li><a href="/autoinsurance">Auto Insurance</a></li>
+                            {/* <li><a href="#">Careers</a></li> */}
+                            <li><a href="/lifeinsurance">Life Insurance</a></li>
+                            <li><a href="/contact">Customer Support</a></li>
                         </ul>
                     </div>
 
