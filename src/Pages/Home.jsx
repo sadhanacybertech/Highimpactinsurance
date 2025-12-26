@@ -105,7 +105,7 @@ const Home = () => {
                     {/* SERVICES GRID */}
                     <div className="row g-4">
 
-                        <div className="col-lg-4 col-md-6">
+                        <div className="col-lg-3 col-md-6">
                             <div className="service-card">
                                 <div className="service-icon blue">
                                     <FaHeartbeat />
@@ -118,7 +118,7 @@ const Home = () => {
                             </div>
                         </div>
 
-                        <div className="col-lg-4 col-md-6">
+                        <div className="col-lg-3 col-md-6">
                             <div className="service-card">
                                 <div className="service-icon green">
                                     <FaUserShield />
@@ -131,7 +131,7 @@ const Home = () => {
                             </div>
                         </div>
 
-                        <div className="col-lg-4 col-md-6">
+                        <div className="col-lg-3 col-md-6">
                             <div className="service-card">
                                 <div className="service-icon orange">
                                     <FaCar />
@@ -144,7 +144,7 @@ const Home = () => {
                             </div>
                         </div>
 
-                        <div className="col-lg-4 col-md-6">
+                        <div className="col-lg-3 col-md-6">
                             <div className="service-card">
                                 <div className="service-icon purple">
                                     <FaHome />
@@ -157,32 +157,7 @@ const Home = () => {
                             </div>
                         </div>
 
-                        <div className="col-lg-4 col-md-6">
-                            <div className="service-card">
-                                <div className="service-icon cyan">
-                                    <FaBriefcaseMedical />
-                                </div>
-                                <h5>Business Insurance</h5>
-                                <p>
-                                    Tailored insurance solutions to safeguard your business assets
-                                    and operations.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div className="col-lg-4 col-md-6">
-                            <div className="service-card">
-                                <div className="service-icon red">
-                                    <FaHandsHelping />
-                                </div>
-                                <h5>Claims Assistance</h5>
-                                <p>
-                                    Dedicated support to ensure smooth and fast claim settlements
-                                    without hassle.
-                                </p>
-                            </div>
-                        </div>
-
+                     
                     </div>
 
                 </div>
