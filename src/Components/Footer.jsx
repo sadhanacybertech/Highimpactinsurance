@@ -89,7 +89,7 @@ const Footer = () => {
                         <h6 className="footer-title">Address</h6>
                         <ul className="footer-contact">
                             <li><FaMapMarkerAlt /> New Delhi, India</li>
-                            <li><FaPhoneAlt /> +91 84238 11106</li>
+                            <li><FaPhoneAlt /> +91 6393785945</li>
                             <li><FaEnvelope /> info@insurance.com</li>
                         </ul>
                     </div>
