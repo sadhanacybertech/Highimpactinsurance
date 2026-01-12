@@ -61,8 +61,8 @@ const ContactUs = () => {
               <div>
                 <h5>Call Us</h5>
                 <p>
-                  <a href="tel:+918423811106" className="contact-link">
-                    +91 84238 11106
+                  <a href="tel:+91 83349 00998" className="contact-link">
+                    +91 83349 00998
                   </a>
                 </p>
               </div>
@@ -150,7 +150,7 @@ const ContactUs = () => {
                   <div className="col-12 text-start">
                     <button type="submit" className="contact-btn-sm">
                       Submit Inquiry
-                 
+
                     </button>
                   </div>
 

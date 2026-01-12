@@ -89,7 +89,7 @@ const Footer = () => {
                         <h6 className="footer-title">Address</h6>
                         <ul className="footer-contact">
                             <li><FaMapMarkerAlt /> New Delhi, India</li>
-                            <li><FaPhoneAlt /> +91 83349 00998</li>
+                            <li><FaPhoneAlt /> +91 83349 00998 </li>
                             <li><FaEnvelope /> info@insurance.com</li>
                         </ul>
                     </div>
@@ -98,12 +98,9 @@ const Footer = () => {
 
                 {/* Bottom */}
                 <div className="footer-bottom">
-                    <p>© {new Date().getFullYear()} Insurance. All Rights Reserved.</p>
+                    <p>© {new Date().getFullYear()} High Impact Insurance. All Rights Reserved.</p>
 
-                    {/* ✅ Added line */}
-                    <p className="footer-developed">
-                        Developed by <strong>Sadhana Cybertech (OPC) Pvt. Ltd.</strong>
-                    </p>
+                  
                 </div>
 
             </div>
