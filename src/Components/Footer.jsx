@@ -1,5 +1,6 @@
 import React from "react";
 import "./Footer.css";
+import footerlogo from "../assets/logo.png"
 import {
     FaFacebookF,
     FaTwitter,
@@ -19,7 +20,17 @@ const Footer = () => {
                     {/* Brand */}
                     <div className="col-lg-4">
                         <div className="footer-brand">
-                            <h3>Insurance</h3>
+                            <div className="footer-logo-wrap">
+                                <img
+                                    src={footerlogo}
+                                    alt="Company Logo"
+                                    width="140"
+                                    height="50"
+                                    loading="lazy"
+                                    className="footer-logo"
+                                />
+                            </div>
+
                             <p>
                                 Insurance offers financial protection against unexpected risks,
                                 ensuring security and peace of mind for

@@ -231,3 +231,18 @@
     text-align: center;
   }
 }
+.footer-logo-wrap {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: #ffffff;
+  padding: 5px 16px;
+  border-radius: 6px;
+  margin-bottom: 18px;
+}
+
+.footer-logo {
+  max-width: 140px;
+  height: auto;
+  object-fit: contain;
+}
