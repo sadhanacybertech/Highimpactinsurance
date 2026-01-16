@@ -1,7 +1,7 @@
 import React from "react";
 import { Link, NavLink } from "react-router-dom";
 import "./Header.css";
-import logo from "../assets/logo.jpeg";
+import logo from "../assets/logo1.jpeg";
 const Header = () => {
 
   const scrollToSection = (id) => {
@@ -38,8 +38,8 @@ const Header = () => {
           <img
             src={logo}
             alt="Company Logo"
-            width="80"
-            height="60"
+            width="220"
+            height="45"
             className="site-logo"
           />
 
