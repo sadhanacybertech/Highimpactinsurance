@@ -61,8 +61,8 @@ const ContactUs = () => {
               <div>
                 <h5>Call Us</h5>
                 <p>
-                  <a href="tel:+91 83349 00998" className="contact-link">
-                    +91 83349 00998
+                  <a href="tel:+91 8334900998" className="contact-link">
+                    +91 8334900998
                   </a>
                 </p>
               </div>
@@ -78,7 +78,7 @@ const ContactUs = () => {
                     href="mailto:support@insurancecompany.com"
                     className="contact-link"
                   >
-                    support@insurancecompany.com
+                    Contact@highimpactinsurance.com
                   </a>
                 </p>
               </div>
@@ -90,8 +90,8 @@ const ContactUs = () => {
               <div>
                 <h5>Visit Office</h5>
                 <p>
-                  2nd Floor, Business Park,<br />
-                  New Delhi, India
+                  Sector 63 block B
+                  158, Noida, Uttar Pradesh
                 </p>
               </div>
             </div>

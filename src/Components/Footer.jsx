@@ -88,9 +88,10 @@ const Footer = () => {
                     <div className="col-lg-3">
                         <h6 className="footer-title">Address</h6>
                         <ul className="footer-contact">
-                            <li><FaMapMarkerAlt /> New Delhi, India</li>
-                            <li><FaPhoneAlt /> +91 83349 00998 </li>
-                            <li><FaEnvelope /> info@insurance.com</li>
+                            <li><FaMapMarkerAlt />Sector 63 block B
+                                158</li>
+                            <li><FaPhoneAlt /> +91 8334900998 </li>
+                            <li><FaEnvelope /> Contact@highimpactinsurance.com</li>
                         </ul>
                     </div>
 
@@ -100,7 +101,7 @@ const Footer = () => {
                 <div className="footer-bottom">
                     <p>© {new Date().getFullYear()} High Impact Insurance. All Rights Reserved.</p>
 
-                  
+
                 </div>
 
             </div>

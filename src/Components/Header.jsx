@@ -1,7 +1,7 @@
 import React from "react";
 import { Link, NavLink } from "react-router-dom";
 import "./Header.css";
-
+import logo from "../assets/logo.jpeg";
 const Header = () => {
 
   const scrollToSection = (id) => {
@@ -35,8 +35,14 @@ const Header = () => {
             closeNavbar();
           }}
         >
-          <span className="logo-icon">🛡️</span>
-          <span className="logo-text">Insurance</span>
+          <img
+            src={logo}
+            alt="Company Logo"
+            width="80"
+            height="60"
+            className="site-logo"
+          />
+
         </Link>
 
         {/* Mobile Toggle */}
