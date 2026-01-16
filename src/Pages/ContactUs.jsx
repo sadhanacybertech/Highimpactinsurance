@@ -35,11 +35,11 @@ const ContactUs = () => {
               </p>
 
               <div className="contact-hero-actions">
-                <a href="/contact" className="hero-btn primary">
+                <a href="/" className="hero-btn primary">
                   Get a Free Quote
                 </a>
 
-                <a href="tel:+918423811106" className="hero-btn secondary">
+                <a href="tel:+918334900998" className="hero-btn secondary">
                   Talk to an Expert
                 </a>
               </div>
@@ -75,7 +75,7 @@ const ContactUs = () => {
                 <h5>Email Us</h5>
                 <p>
                   <a
-                    href="mailto:support@insurancecompany.com"
+                    href="mailto:Contact@highimpactinsurance.com"
                     className="contact-link"
                   >
                     Contact@highimpactinsurance.com
