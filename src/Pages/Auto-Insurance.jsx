@@ -225,7 +225,7 @@ export default function HeroAutoInsurance() {
                                 Get Free Quote
                             </Link>
 
-                            <a href="tel:+918423811106" className="auto-cta-btn secondary">
+                            <a href="tel:+918334900998" className="auto-cta-btn secondary">
                                 Talk to an Expert
                             </a>
 

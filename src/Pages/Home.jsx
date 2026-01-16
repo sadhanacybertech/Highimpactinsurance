@@ -157,7 +157,7 @@ const Home = () => {
                             </div>
                         </div>
 
-                     
+
                     </div>
 
                 </div>
@@ -538,9 +538,10 @@ const Home = () => {
 
                         {/* RIGHT CTA */}
                         <div className="col-lg-4 text-center text-lg-end mt-4 mt-lg-0">
-                            <a href="/contact" className="cta-light-btn">
+                            <Link to="/contact" className="cta-light-btn">
                                 Get Free Quote <FaArrowRight />
-                            </a>
+                            </Link>
+
                         </div>
 
                     </div>

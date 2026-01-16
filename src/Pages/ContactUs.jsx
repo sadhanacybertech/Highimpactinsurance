@@ -7,6 +7,7 @@ import {
 } from "react-icons/fa";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./ContactUs.css";
+import { Link } from "react-router-dom";
 
 const ContactUs = () => {
   return (
@@ -35,9 +36,10 @@ const ContactUs = () => {
               </p>
 
               <div className="contact-hero-actions">
-                <a href="/" className="hero-btn primary">
+                <Link to="/contact" className="hero-btn primary">
                   Get a Free Quote
-                </a>
+                </Link>
+
 
                 <a href="tel:+918334900998" className="hero-btn secondary">
                   Talk to an Expert
