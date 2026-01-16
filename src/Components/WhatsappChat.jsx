@@ -48,7 +48,7 @@ const WhatsAppChat = () => {
 
       {/* FLOATING WHATSAPP ICON */}
       <a
-        href="https://wa.me/918423811106?text=Hi%20I%20need%20insurance%20assistance"
+        href="https://wa.me/918334900998?text=Hi%20I%20need%20insurance%20assistance"
         target="_blank"
         rel="noopener noreferrer"
         className="wa-float"
