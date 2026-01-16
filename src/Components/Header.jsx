@@ -1,7 +1,7 @@
 import React from "react";
 import { Link, NavLink } from "react-router-dom";
 import "./Header.css";
-import logo from "../assets/logo1.jpeg";
+import logo from "../assets/logo.png";
 const Header = () => {
 
   const scrollToSection = (id) => {
