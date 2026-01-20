@@ -80,7 +80,7 @@ const ContactUs = () => {
                     href="mailto:Contact@highimpactinsurance.com"
                     className="contact-link"
                   >
-                    Contact@highimpactinsurance.com
+                    contact@highimpactinsurance.com
                   </a>
                 </p>
               </div>
