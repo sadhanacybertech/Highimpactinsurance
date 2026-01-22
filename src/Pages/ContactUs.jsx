@@ -92,8 +92,7 @@ const ContactUs = () => {
               <div>
                 <h5>Visit Office</h5>
                 <p>
-                  Sector 63 block B
-                  158, Noida, Uttar Pradesh
+                  Sector 63 block B 158, Noida, Uttar Pradesh
                 </p>
               </div>
             </div>
